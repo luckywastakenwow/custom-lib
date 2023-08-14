@@ -7,4 +7,5 @@ local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 -- Variables with other variables
+
 local LocalPlayer = Players.LocalPlayer
